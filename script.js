@@ -1,5 +1,8 @@
 "use strict";
 
+//  my 8 month's old baby decided not to sleep the last nights so I couldn't finish 
+//  the asignment. The following is the code from a coleague adapted to my html. ;
+
 const allBars = document.querySelectorAll(".bar");
 
 const arr = [
