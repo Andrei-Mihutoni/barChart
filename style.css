@@ -1,0 +1,15 @@
+.bars {
+  display: flex;
+  height: 100vh;
+  /* flex-flow: row; */
+  justify-content: center;
+  align-items: center;
+}
+
+.bar {
+  background-color: hotpink;
+  width: 20px;
+  height: 100px;
+  margin: 2px;
+  /* border: 2px solid black; */
+}
